@@ -1,2 +1,3 @@
-# data_science
-Projects related to studying Data Science
+## Data Science
+
+The repo for storing educational Data Science projects
