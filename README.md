@@ -1,3 +1,3 @@
-## Data Science
+## Systems Modeling
 
-The repo for storing educational Data Science projects
+The repo for storing educational Systems Modeling projects
